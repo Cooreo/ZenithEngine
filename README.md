@@ -1,7 +1,9 @@
 # ZenithEngine
 ZenithEngine is a simple chess engine made to work with cute chess gui.
 We want it to be a midrange chess engine. Not the best, but good enough.
+
 For now the newest version is: none
+
 There will be times where we lock in and do like a bunch of releases and there will be times with no updates at all
 We want to document the process fully
 
