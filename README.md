@@ -12,5 +12,7 @@ Shoutout to:
 
 # Future Plans
 1.We want to create an app for our engine, something inspired by chess.com or lichess, but with somewhat original features based on our model
+
 2.We want for our model to be able to challange players with around 1000-1300 elo
+
 3.We want this to be a passion project and somewhat of a challange
