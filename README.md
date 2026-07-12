@@ -5,9 +5,12 @@ We want it to be a midrange chess engine. Not the best, but good enough.
 # The nerdy Stuff
 
 Language: C++
-Program: Visual Sutdio Code 2026 Professional
+Program: Visual Sutdio Code 2026 Professional - LL-Leafe
+Program: CLion - Cooreo
+
 Shoutout to:
 1.microsoft copilot for debuing and error fixing
+
 2.chess programing wiki https://www.chessprogramming.org/
 
 # Future Plans
