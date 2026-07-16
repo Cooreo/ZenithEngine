@@ -11,9 +11,11 @@ We want to document the process fully
 
 Language: C++
 
-Program: Visual Sutdio Code 2026 Professional - LL-Leafe
+Program: Visual Sutdio 2026 Professional - LL-Leafe
 
 Program: CLion - Cooreo
+
+Program: Visual Studio 2022 Professional - MmManor
 
 Shoutout to:
 
